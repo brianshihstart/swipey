@@ -10,6 +10,7 @@ import UIKit
 import Foundation
 
 class tutorialPage: UIViewController {
+    //lol
     
     var page = 0
     var triangleMovement: String!
