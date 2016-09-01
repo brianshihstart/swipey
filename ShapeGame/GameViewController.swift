@@ -2,7 +2,7 @@ import UIKit
 import SpriteKit
 
 class GameViewController: UIViewController {
-    
+    // LOL
     var level: Int!
     var arrayOfColors: [shapeColorMovements]!
 
